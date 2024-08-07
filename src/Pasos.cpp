@@ -38,7 +38,7 @@
  *  the 250 ns delay from the ULN2003A gate average response time. take  *
  *  this nano-delay into consideration, because an Arduino instruction   *
  *  is about 65 ns, so you dont want to change your digital pin state    *
- *  before the motor was able in time to response. Lets asume a minimal   *
+ *  before the motor was able in time to response. Lets asume a minimal  *
  *  time of 1 ms to be sure. Again, you need to thing a single motor     *
  *  step like an equivalency with a single 8-times magnetic sequence.    *
  *                                                                       *
