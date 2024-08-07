@@ -1,0 +1,39 @@
+#######################################
+# Syntax Color Map for Class::Pasos()
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Pasos	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initPasos	KEYWORD2
+darPasos	KEYWORD2
+unaVuelta	KEYWORD2
+darVueltas	KEYWORD2
+getNumeroDePasos	KEYWORD2
+singleStep_CW	KEYWORD2
+singleStep_CCW	KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+STEPS_P_REV	LITERAL1
+CLOCKWISE	LITERAL1
+COUNTERCLOCKWISE	LITERAL1
+RPM_14	LITERAL1
+RPM_7	LITERAL1
+RPM_5	LITERAL1
+RPM_4	LITERAL1
+RPM_3	LITERAL1
+RPM_DEBUG	LITERAL1
